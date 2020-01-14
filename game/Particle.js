@@ -7,4 +7,4 @@ class Particle
         this.previousGenIndex=_generation
         this.cd=_countdownleft
     }
-}
+} 
